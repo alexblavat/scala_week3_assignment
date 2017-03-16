@@ -68,7 +68,7 @@ abstract class TweetSet {
     def mostRetweeted: Tweet = ???
   
   /**
-   * Returns a list containing all tweets of this set, sorted by retweet count
+    * Returns a list containing all tweets of this set, sorted by retweet count
    * in descending order. In other words, the head of the resulting list should
    * have the highest retweet count.
    *
